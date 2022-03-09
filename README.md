@@ -17,9 +17,16 @@ yarn
 yarn dev -p 3000 or you can change 3000 with another port
 ```
 
+4. Environment
+```bash
+NEXT_PUBLIC_URL=https://rickandmortyapi.com/graphql/
+```
+
+
 this app build with
   <ul>
     <li>NextJS</li>
     <li>chakra-ui</li>
     <li>Graphql and Apollo Client</li>
   </ul>
+
